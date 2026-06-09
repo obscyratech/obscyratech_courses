@@ -47,20 +47,6 @@ Download Options
 
 ---
 
-🌐 Enable GitHub Pages (One-Time Setup)
-
-After uploading this repo to GitHub:
-
-1. Go to Settings → Pages
-2. Source: Deploy from a branch
-3. Branch: `main` → Folder: `/ (root)` → Save
-4. Wait ~30 seconds → your site goes live at:
-`https://<your-username>.github.io/obscyratech-courses/`
-
-To make the catalog page open by default, rename `obscyratech_catalog.html` → `index.html` before pushing (or after, in GitHub's web editor).
-
----
-
 🎯 About Obscyratech
 
 Obscyratech is a cybersecurity training and services provider based in Mysore, India. We help students, professionals, and enterprises build practical, industry-aligned skills in cybersecurity, digital forensics, and modern technology.
